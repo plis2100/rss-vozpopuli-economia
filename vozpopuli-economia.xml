@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:03:35 +0000</lastBuildDate>
     <item>
       <title>El Gobierno aplaza la mayor concesión de España ante las dudas de las empresas</title>
       <link>https://www.vozpopuli.com/economia/empresas/el-gobierno-aplaza-la-mayor-concesion-de-espana-ante-las-dudas-de-las-empresas.html</link>
@@ -230,6 +230,11 @@
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/macroeconomia/el-alza-del-ipc-en-2026-apunta-a-la-mayor-subida-de-las-pensiones-en-tres-anos.html</guid>
     </item>
     <item>
+      <title>Adiós a los mosquitos: Lidl lanza esta lámpara por menos de 20 euros con soporte para pared y se está agotando</title>
+      <link>https://www.vozpopuli.com/economia/distribucion/adios-a-los-mosquitos-lidl-lanza-esta-lampara-por-menos-de-20-euros-con-soporte-para-pared-y-se-esta-agotando.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/adios-a-los-mosquitos-lidl-lanza-esta-lampara-por-menos-de-20-euros-con-soporte-para-pared-y-se-esta-agotando.html</guid>
+    </item>
+    <item>
       <title>Muere Carlos Espinosa de los Monteros, empresario comprometido con la Monarquía y con la “Marca España”</title>
       <link>https://www.vozpopuli.com/economia/muere-carlos-espinosa-de-los-monteros-empresario-comprometido-con-la-monarquia-y-con-la-marca-espana.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/muere-carlos-espinosa-de-los-monteros-empresario-comprometido-con-la-monarquia-y-con-la-marca-espana.html</guid>
@@ -253,11 +258,6 @@
       <title>Colas kilométricas en Lidl por las botas de agua contra la lluvia, ideales para la vuelta al cole, con forro, personalizables y por menos de 8 euros</title>
       <link>https://www.vozpopuli.com/economia/distribucion/colas-kilometricas-en-lidl-por-las-botas-de-agua-contra-la-lluvia-ideales-para-la-vuelta-al-cole-con-forro-personalizables-y-por-menos-de-8-euros.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-kilometricas-en-lidl-por-las-botas-de-agua-contra-la-lluvia-ideales-para-la-vuelta-al-cole-con-forro-personalizables-y-por-menos-de-8-euros.html</guid>
-    </item>
-    <item>
-      <title>Adiós a los mosquitos</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/adios-a-los-mosquitos-lidl-lanza-esta-lampara-por-menos-de-20-euros-con-soporte-para-pared-y-se-esta-agotando.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/adios-a-los-mosquitos-lidl-lanza-esta-lampara-por-menos-de-20-euros-con-soporte-para-pared-y-se-esta-agotando.html</guid>
     </item>
   </channel>
 </rss>
