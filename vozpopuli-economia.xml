@@ -1,263 +1,68 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Vozpópuli - Economía</title>
-    <link>https://raw.githubusercontent.com/plis2100/rss-vozpopuli-economia/main/vozpopuli-economia.xml</link>
-    <description>Últimas noticias de Economía publicadas por Vozpópuli</description>
-    <atom:link href="https://raw.githubusercontent.com/plis2100/rss-vozpopuli-economia/main/vozpopuli-economia.xml" rel="self"/>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:34:36 +0000</lastBuildDate>
-    <item>
-      <title>El Gobierno hace una purga récord de empresas de luz en pleno caos de impagos y sociedades fantasma</title>
-      <link>https://www.vozpopuli.com/economia/energia/el-gobierno-hace-un-purga-record-de-empresas-de-luz-en-medio-del-caos-de-impagos-y-sociedades-fantasma.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/el-gobierno-hace-un-purga-record-de-empresas-de-luz-en-medio-del-caos-de-impagos-y-sociedades-fantasma.html</guid>
-    </item>
-    <item>
-      <title>Los días de baja crecen seis veces más que los días trabajados desde 2023</title>
-      <link>https://www.vozpopuli.com/economia/empleo/los-dias-de-baja-crecen-seis-veces-mas-que-los-dias-trabajados-desde-2023.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/los-dias-de-baja-crecen-seis-veces-mas-que-los-dias-trabajados-desde-2023.html</guid>
-    </item>
-    <item>
-      <title>Lidl tira la casa por la ventana con su set de 14 brochas de maquillaje por menos de 8 euros: sus pinceles suaves son ideales para personas alérgicas</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-tira-la-casa-por-la-ventana-con-su-set-de-14-brochas-de-maquillaje-por-menos-de-8-euros-sus-pinceles-suaves-son-ideales-para-personas-alergicas.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-tira-la-casa-por-la-ventana-con-su-set-de-14-brochas-de-maquillaje-por-menos-de-8-euros-sus-pinceles-suaves-son-ideales-para-personas-alergicas.html</guid>
-    </item>
-    <item>
-      <title>Aldi lo vuelve a hacer: los jarrones de cerámica por menos de 5 euros que le darán un toque colorido a tu hogar</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/aldi-lo-vuelve-a-hacer-los-jarrones-de-ceramica-por-menos-de-5-euros-que-le-daran-un-toque-colorido-a-tu-hogar.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/aldi-lo-vuelve-a-hacer-los-jarrones-de-ceramica-por-menos-de-5-euros-que-le-daran-un-toque-colorido-a-tu-hogar.html</guid>
-    </item>
-    <item>
-      <title>Repostar diésel es más barato desde hoy: su descuento sube a 20 céntimos y el de la gasolina cae a 5</title>
-      <link>https://www.vozpopuli.com/economia/repostar-diesel-es-mas-barato-desde-hoy-su-descuento-sube-a-20-centimos-y-el-de-la-gasolina-cae-a-5.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/repostar-diesel-es-mas-barato-desde-hoy-su-descuento-sube-a-20-centimos-y-el-de-la-gasolina-cae-a-5.html</guid>
-    </item>
-    <item>
-      <title>El aviso de la Seguridad Social para los que cobran el subsidio de mayores de 52 años y han encontrado trabajo: cómo afecta a la jubilación</title>
-      <link>https://www.vozpopuli.com/economia/el-aviso-de-la-seguridad-social-para-los-que-cobran-el-subsidio-de-mayores-de-52-anos-y-han-encontrado-trabajo-como-afecta-a-la-jubilacion.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-aviso-de-la-seguridad-social-para-los-que-cobran-el-subsidio-de-mayores-de-52-anos-y-han-encontrado-trabajo-como-afecta-a-la-jubilacion.html</guid>
-    </item>
-    <item>
-      <title>Iberdrola organiza la mayor exposición dedicada a la evolución tecnológica y el futuro de la electricidad</title>
-      <link>https://www.vozpopuli.com/economia/empresas/berdrola-organiza-la-mayor-exposicion-dedicada-a-la-evolucion-tecnologica-y-el-futuro-de-la-electricidad.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/berdrola-organiza-la-mayor-exposicion-dedicada-a-la-evolucion-tecnologica-y-el-futuro-de-la-electricidad.html</guid>
-    </item>
-    <item>
-      <title>Si estás de baja, atento: la Seguridad Social introduce cambios importantes que afectarán a estos trabajadores</title>
-      <link>https://www.vozpopuli.com/economia/empleo/si-estas-de-baja-atento-la-seguridad-social-introduce-cambios-importantes-que-afectaran-a-estos-trabajadores.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/si-estas-de-baja-atento-la-seguridad-social-introduce-cambios-importantes-que-afectaran-a-estos-trabajadores.html</guid>
-    </item>
-    <item>
-      <title>Tecniberia y Cíes muestran su "oposición frontal" a la entrada del Cabildo de Gran Canarias en Ineco</title>
-      <link>https://www.vozpopuli.com/economia/empresas/tecniberia-y-cies-muestran-su-oposicion-frontal-a-la-entrada-del-cabildo-de-gran-canarias-en-ineco.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/tecniberia-y-cies-muestran-su-oposicion-frontal-a-la-entrada-del-cabildo-de-gran-canarias-en-ineco.html</guid>
-    </item>
-    <item>
-      <title>TotalEnergies pone a Pablo Semolinos al frente de su negocio de Gas, Electricidad y Renovables en España</title>
-      <link>https://www.vozpopuli.com/economia/energia/totalenergies-pone-a-pablo-semolinos-al-frente-de-su-negocio-de-gas-electricidad-y-renovables-en-espana.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/totalenergies-pone-a-pablo-semolinos-al-frente-de-su-negocio-de-gas-electricidad-y-renovables-en-espana.html</guid>
-    </item>
-    <item>
-      <title>Dónde invertir en 2026 tras el verano: ganadores y riesgos</title>
-      <link>https://www.vozpopuli.com/economia/donde-invertir-en-2026-tras-el-verano-ganadores-y-riesgos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/donde-invertir-en-2026-tras-el-verano-ganadores-y-riesgos.html</guid>
-    </item>
-    <item>
-      <title>El renminbi vuelve a rugir frente al dólar: ¿es el momento de apostar por China?</title>
-      <link>https://www.vozpopuli.com/economia/el-renminbi-vuelve-a-rugir-frente-al-dolar-es-el-momento-de-apostar-por-china.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-renminbi-vuelve-a-rugir-frente-al-dolar-es-el-momento-de-apostar-por-china.html</guid>
-    </item>
-    <item>
-      <title>El Gobierno ha inyectado 988 millones de fondos UE a dos empresas salpicadas por la corrupción</title>
-      <link>https://www.vozpopuli.com/economia/empresas/el-gobierno-ha-inyectado-988-millones-de-fondos-ue-a-dos-empresas-salpicadas-por-la-corrupcion.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/el-gobierno-ha-inyectado-988-millones-de-fondos-ue-a-dos-empresas-salpicadas-por-la-corrupcion.html</guid>
-    </item>
-    <item>
-      <title>Moncloa teme otra subida de la luz por los nuevos centros de datos en plena crisis energética</title>
-      <link>https://www.vozpopuli.com/economia/empresas/moncloa-teme-otra-subida-de-la-luz-por-los-nuevos-centros-de-datos-en-plena-crisis-energetica.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/moncloa-teme-otra-subida-de-la-luz-por-los-nuevos-centros-de-datos-en-plena-crisis-energetica.html</guid>
-    </item>
-    <item>
-      <title>Tubos Reunidos activa la 'operación rescate': un mes para las ofertas y 300 millones de deuda</title>
-      <link>https://www.vozpopuli.com/economia/empresas/tubos-reunidos-activa-la-operacion-rescate-12-dias-para-las-ofertas-y-300-millones-de-deuda.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/tubos-reunidos-activa-la-operacion-rescate-12-dias-para-las-ofertas-y-300-millones-de-deuda.html</guid>
-    </item>
-    <item>
-      <title>España encadena 15 meses con la inflación más alta de las grandes economías de la UE</title>
-      <link>https://www.vozpopuli.com/economia/macroeconomia/espana-encadena-15-meses-con-la-inflacion-mas-alta-de-las-grandes-economias-de-la-ue.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/macroeconomia/espana-encadena-15-meses-con-la-inflacion-mas-alta-de-las-grandes-economias-de-la-ue.html</guid>
-    </item>
-    <item>
-      <title>Lidl da en el clavo: lanza la columna de enchufes de 3680 W por 9.99 euros que hará que no entres en pánico por no tener espacio para cargar el móvil en casa</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-da-en-el-clavo-lanza-la-columna-de-enchufes-de-3680-w-por-999-euros-que-hara-que-no-entres-en-panico-por-no-tener-espacio-para-cargar-el-movil-en-casa.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-da-en-el-clavo-lanza-la-columna-de-enchufes-de-3680-w-por-999-euros-que-hara-que-no-entres-en-panico-por-no-tener-espacio-para-cargar-el-movil-en-casa.html</guid>
-    </item>
-    <item>
-      <title>Mercadona asombra a las redes sociales: el bocadillo de steak tartar, trufa y patatas por menos de 15 euros que está arrasando este verano</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/mercadona-asombra-a-las-redes-sociales-el-bocadillo-de-steak-tartar-trufa-y-patatas-por-menos-de-15-euros-que-esta-arrasando-este-verano.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/mercadona-asombra-a-las-redes-sociales-el-bocadillo-de-steak-tartar-trufa-y-patatas-por-menos-de-15-euros-que-esta-arrasando-este-verano.html</guid>
-    </item>
-    <item>
-      <title>España destruye 162.840 empleos en agosto y el paro se dispara con su mayor subida desde 2019</title>
-      <link>https://www.vozpopuli.com/economia/empleo/espana-destruye-162840-empleos-en-agosto-y-el-paro-se-dispara-con-su-mayor-subida-desde-2019.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/espana-destruye-162840-empleos-en-agosto-y-el-paro-se-dispara-con-su-mayor-subida-desde-2019.html</guid>
-    </item>
-    <item>
-      <title>Lidl apuesta por la freidora de aire por menos de 40 euros de color pastel que hará tus comidas más ligeras y será imprescindible en tu cocina</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-apuesta-por-la-freidora-de-aire-por-menos-de-40-euros-de-color-pastel-que-hara-tus-comidas-mas-ligeras-y-sera-imprescindible-en-tu-cocina.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-apuesta-por-la-freidora-de-aire-por-menos-de-40-euros-de-color-pastel-que-hara-tus-comidas-mas-ligeras-y-sera-imprescindible-en-tu-cocina.html</guid>
-    </item>
-    <item>
-      <title>Moncloa estudia una nueva subida del SMI a pesar de los avisos de Garamendi</title>
-      <link>https://www.vozpopuli.com/economia/moncloa-estudia-una-nueva-subida-del-smi-a-pesar-de-los-avisos-de-garamendi.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/moncloa-estudia-una-nueva-subida-del-smi-a-pesar-de-los-avisos-de-garamendi.html</guid>
-    </item>
-    <item>
-      <title>La Ley de Servicios de Atención a la Clientela exigirá a las empresas demostrar su cumplimiento antes de final de año</title>
-      <link>https://www.vozpopuli.com/economia/empresas/la-ley-de-servicios-de-atencion-a-la-clientela-exigira-a-las-empresas-demostrar-su-cumplimiento-antes-de-final-de-ano.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/la-ley-de-servicios-de-atencion-a-la-clientela-exigira-a-las-empresas-demostrar-su-cumplimiento-antes-de-final-de-ano.html</guid>
-    </item>
-    <item>
-      <title>T-Systems refuerza su posicionamiento como proveedor tecnológico para el sector financiero en el marco de DORA</title>
-      <link>https://www.vozpopuli.com/economia/empresas/t-systems-refuerza-su-posicionamiento-como-proveedor-tecnologico-para-el-sector-financiero-en-el-marco-de-dora.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/t-systems-refuerza-su-posicionamiento-como-proveedor-tecnologico-para-el-sector-financiero-en-el-marco-de-dora.html</guid>
-    </item>
-    <item>
-      <title>El Atlético inaugurará el macro centro comercial del Metropolitano en el Black Friday del 2027</title>
-      <link>https://www.vozpopuli.com/economia/empresas/el-atletico-inaugurara-el-macro-centro-comercial-del-metropolitano-en-el-black-friday-del-2027.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/el-atletico-inaugurara-el-macro-centro-comercial-del-metropolitano-en-el-black-friday-del-2027.html</guid>
-    </item>
-    <item>
-      <title>El Bono español supera el 3,8% y recibe el mayor castigo entre los PIGS por la alta inflación</title>
-      <link>https://www.vozpopuli.com/economia/el-bono-espanol-supera-el-38-y-recibe-el-mayor-castigo-entre-los-pigs-por-la-alta-inflacion.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-bono-espanol-supera-el-38-y-recibe-el-mayor-castigo-entre-los-pigs-por-la-alta-inflacion.html</guid>
-    </item>
-    <item>
-      <title>Guerra y bolsa: el S&amp;P 500 ha subido un 94% al cabo de los últimos cinco años</title>
-      <link>https://www.vozpopuli.com/economia/guerra-y-bolsa-el-sp-500-ha-subido-un-94-al-cabo-de-los-ultimos-cinco-anos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/guerra-y-bolsa-el-sp-500-ha-subido-un-94-al-cabo-de-los-ultimos-cinco-anos.html</guid>
-    </item>
-    <item>
-      <title>Crece la precariedad: el empleo temporal resurge y encadena ya seis meses de crecimiento</title>
-      <link>https://www.vozpopuli.com/economia/empleo/crece-la-precariedad-el-empleo-temporal-resurge-y-encadena-ya-seis-meses-de-crecimiento.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/crece-la-precariedad-el-empleo-temporal-resurge-y-encadena-ya-seis-meses-de-crecimiento.html</guid>
-    </item>
-    <item>
-      <title>El gas resucita la pesadilla energética: se encarece un 23% en dos semanas y toca máximos de 2023</title>
-      <link>https://www.vozpopuli.com/economia/energia/el-gas-resucita-la-pesadilla-energetica-se-encarece-un-23-en-dos-semanas-y-toca-maximos-de-2023.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/el-gas-resucita-la-pesadilla-energetica-se-encarece-un-23-en-dos-semanas-y-toca-maximos-de-2023.html</guid>
-    </item>
-    <item>
-      <title>Fondos UE: el Gobierno ha destinado más de 10.000 millones a pagar pensiones y otras facturas corrientes</title>
-      <link>https://www.vozpopuli.com/economia/fondos-ue-el-gobierno-ha-destinado-mas-de-10000-millones-a-pagar-pensiones-y-otras-facturas-corrientes.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/fondos-ue-el-gobierno-ha-destinado-mas-de-10000-millones-a-pagar-pensiones-y-otras-facturas-corrientes.html</guid>
-    </item>
-    <item>
-      <title>Colas kilométricas en Lidl por la batería externa de carga rápida de dos colores por menos de 10 euros que dará vida a hasta tres dispositivos</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/colas-kilometricas-en-lidl-por-la-bateria-externa-de-carga-rapida-de-dos-colores-por-menos-de-10-euros-que-dara-vida-a-hasta-tres-dispositivos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-kilometricas-en-lidl-por-la-bateria-externa-de-carga-rapida-de-dos-colores-por-menos-de-10-euros-que-dara-vida-a-hasta-tres-dispositivos.html</guid>
-    </item>
-    <item>
-      <title>Jaime Secoes, experto inmobiliario, sobre las herencias: "Si han fallecido tus padres y te dejan un piso existen dos caminos: el primero le encanta a Hacienda"</title>
-      <link>https://www.vozpopuli.com/economia/inmobiliario/jaime-secoes-experto-inmobiliario-sobre-las-herencias-si-han-fallecido-tus-padres-y-te-dejan-un-piso-existen-dos-caminos-el-primero-le-encanta-a-hacienda.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/inmobiliario/jaime-secoes-experto-inmobiliario-sobre-las-herencias-si-han-fallecido-tus-padres-y-te-dejan-un-piso-existen-dos-caminos-el-primero-le-encanta-a-hacienda.html</guid>
-    </item>
-    <item>
-      <title>Fundación Mutua Madrileña destinará un millón de euros a nuevos proyectos sociales de entidades sin ánimo de lucro</title>
-      <link>https://www.vozpopuli.com/economia/empresas/fundacion-mutua-madrilena-destinara-un-millon-de-euros-a-nuevos-proyectos-sociales-de-entidades-sin-animo-de-lucro.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/fundacion-mutua-madrilena-destinara-un-millon-de-euros-a-nuevos-proyectos-sociales-de-entidades-sin-animo-de-lucro.html</guid>
-    </item>
-    <item>
-      <title>Ordino Arcalís y Grandvalira celebrarán el Día de Meritxell con el acceso gratuito al Mirador Solar de Tristaina y al Funicamp</title>
-      <link>https://www.vozpopuli.com/economia/empresas/ordino-arcalis-y-grandvalira-celebraran-el-dia-de-meritxell-con-el-acceso-gratuito-al-mirador-solar-de-tristaina-y-al-funicamp.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/ordino-arcalis-y-grandvalira-celebraran-el-dia-de-meritxell-con-el-acceso-gratuito-al-mirador-solar-de-tristaina-y-al-funicamp.html</guid>
-    </item>
-    <item>
-      <title>Moeve supedita a la fusión con Galp la irrupción de sus gasolineras ‘low cost’ en Portugal</title>
-      <link>https://www.vozpopuli.com/economia/empresas/moeve-supedita-a-la-fusion-con-galp-la-irrupcion-de-sus-gasolineras-low-cost-en-portugal.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/moeve-supedita-a-la-fusion-con-galp-la-irrupcion-de-sus-gasolineras-low-cost-en-portugal.html</guid>
-    </item>
-    <item>
-      <title>Septiembre arranca con la bolsa en máximos: qué reducir y dónde buscar oportunidades ahora</title>
-      <link>https://www.vozpopuli.com/economia/septiembre-arranca-con-la-bolsa-en-maximos-que-reducir-y-donde-buscar-oportunidades-ahora.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/septiembre-arranca-con-la-bolsa-en-maximos-que-reducir-y-donde-buscar-oportunidades-ahora.html</guid>
-    </item>
-    <item>
-      <title>¿Qué parte de tu nómina deberías dedicar a ahorrar e invertir? Esto es lo que dicen los expertos</title>
-      <link>https://www.vozpopuli.com/economia/que-parte-de-tu-nomina-deberias-dedicar-a-ahorrar-e-invertir-esto-es-lo-que-dicen-los-expertos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/que-parte-de-tu-nomina-deberias-dedicar-a-ahorrar-e-invertir-esto-es-lo-que-dicen-los-expertos.html</guid>
-    </item>
-    <item>
-      <title>España ya es el país europeo que más ha elevado el SMI respecto al salario medio</title>
-      <link>https://www.vozpopuli.com/economia/empleo/espana-ya-es-el-pais-europeo-que-mas-ha-elevado-el-smi-respecto-al-salario-medio.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/espana-ya-es-el-pais-europeo-que-mas-ha-elevado-el-smi-respecto-al-salario-medio.html</guid>
-    </item>
-    <item>
-      <title>Rebelión de autonomías, tecnológicas y eléctricas contra el plan de los centros de datos</title>
-      <link>https://www.vozpopuli.com/economia/energia/rebelion-de-autonomias-tecnologicas-y-electricas-contra-el-plan-de-los-centros-de-datos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/rebelion-de-autonomias-tecnologicas-y-electricas-contra-el-plan-de-los-centros-de-datos.html</guid>
-    </item>
-    <item>
-      <title>Moncloa usará Ceuta como cortina de humo en el último asalto a la financiación autonómica</title>
-      <link>https://www.vozpopuli.com/economia/moncloa-usara-ceuta-como-cortina-de-humo-en-el-ultimo-asalto-a-la-financiacion-autonomica.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/moncloa-usara-ceuta-como-cortina-de-humo-en-el-ultimo-asalto-a-la-financiacion-autonomica.html</guid>
-    </item>
-    <item>
-      <title>Lidl causa furor con la tostadora de dos ranuras de 800 W por menos de 15 euros que provocará colas kilométricas: ideal para nostálgicos</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-causa-furor-con-la-tostadora-de-dos-ranuras-de-800-w-por-menos-de-15-euros-que-provocara-colas-kilometricas-ideal-para-nostalgicos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-causa-furor-con-la-tostadora-de-dos-ranuras-de-800-w-por-menos-de-15-euros-que-provocara-colas-kilometricas-ideal-para-nostalgicos.html</guid>
-    </item>
-    <item>
-      <title>El Gobierno fuerza la aprobación de la financiación autonómica con la mayoría de las CCAA en contra</title>
-      <link>https://www.vozpopuli.com/economia/el-gobierno-fuerza-la-aprobacion-de-la-financiacion-autonomica-con-la-mayoria-de-las-ccaa-en-contra.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-gobierno-fuerza-la-aprobacion-de-la-financiacion-autonomica-con-la-mayoria-de-las-ccaa-en-contra.html</guid>
-    </item>
-    <item>
-      <title>La Bluewave Alliance promueve una expedición científica para estudiar el Banco Talbot, uno de los enclaves submarinos más desconocidos del Mediterráneo</title>
-      <link>https://www.vozpopuli.com/economia/empresas/la-bluewave-alliance-promueve-una-expedicion-cientifica-para-estudiar-el-banco-talbot-uno-de-los-enclaves-submarinos-mas-desconocidos-del-mediterraneo.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/la-bluewave-alliance-promueve-una-expedicion-cientifica-para-estudiar-el-banco-talbot-uno-de-los-enclaves-submarinos-mas-desconocidos-del-mediterraneo.html</guid>
-    </item>
-    <item>
-      <title>Fiebre por la IA, el refugio del oro y el riesgo de concentración: la hoja de ruta para el inversor</title>
-      <link>https://www.vozpopuli.com/economia/mercados/fiebre-por-la-ia-el-refugio-del-oro-y-el-riesgo-de-concentracion-la-hoja-de-ruta-para-el-inversor.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/mercados/fiebre-por-la-ia-el-refugio-del-oro-y-el-riesgo-de-concentracion-la-hoja-de-ruta-para-el-inversor.html</guid>
-    </item>
-    <item>
-      <title>Quo vadis, España: el IMV ya cubre a 2,7 millones de personas</title>
-      <link>https://www.vozpopuli.com/economia/macroeconomia/quo-vadis-espana-el-imv-ya-cubre-a-27-millones-de-personas.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/macroeconomia/quo-vadis-espana-el-imv-ya-cubre-a-27-millones-de-personas.html</guid>
-    </item>
-    <item>
-      <title>Best of you: la agencia ligada a Florentino Pérez y que ha engordado los ingresos del Madrid este verano</title>
-      <link>https://www.vozpopuli.com/economia/empresas/best-of-you-la-agencia-ligada-a-florentino-perez-y-que-ha-engordado-los-ingresos-del-madrid-este-verano.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/best-of-you-la-agencia-ligada-a-florentino-perez-y-que-ha-engordado-los-ingresos-del-madrid-este-verano.html</guid>
-    </item>
-    <item>
-      <title>¿Ha pasado lo peor? La guerra amenaza con encarecer los vuelos ante la llegada del invierno</title>
-      <link>https://www.vozpopuli.com/economia/transporte/ha-pasado-lo-peor-la-guerra-amenaza-con-encarecer-los-vuelos-ante-la-llegada-del-invierno.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/transporte/ha-pasado-lo-peor-la-guerra-amenaza-con-encarecer-los-vuelos-ante-la-llegada-del-invierno.html</guid>
-    </item>
-    <item>
-      <title>Del control horario al periodo de prueba: Díaz endosa más burocracia para las empresas</title>
-      <link>https://www.vozpopuli.com/economia/empleo/del-control-horario-al-periodo-de-prueba-diaz-endosa-mas-burocracia-para-las-empresas.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/del-control-horario-al-periodo-de-prueba-diaz-endosa-mas-burocracia-para-las-empresas.html</guid>
-    </item>
-    <item>
-      <title>Lidl arrasa con las zapatillas gemelas de las Skechers por menos de 15 euros ideales para salir a comprar y hacer deporte</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-arrasa-con-las-zapatillas-gemelas-de-las-skechers-por-menos-de-15-euros-ideales-para-salir-a-comprar-y-hacer-deporte.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-arrasa-con-las-zapatillas-gemelas-de-las-skechers-por-menos-de-15-euros-ideales-para-salir-a-comprar-y-hacer-deporte.html</guid>
-    </item>
-    <item>
-      <title>Lidl lanza la terapia de nariz con luz roja por 19,95 euros que puede ayudar a aliviar los síntomas de tu rinitis alérgica</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-lanza-la-terapia-de-nariz-con-luz-roja-por-1995-euros-que-puede-ayudar-a-aliviar-los-sintomas-de-tu-rinitis-alergica.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-lanza-la-terapia-de-nariz-con-luz-roja-por-1995-euros-que-puede-ayudar-a-aliviar-los-sintomas-de-tu-rinitis-alergica.html</guid>
-    </item>
-    <item>
-      <title>Lidl tira la casa por la ventana y agota su fiambrera de Disney para la vuelta al cole: tiene tres compartimentos, botella de acero y cuesta menos de 6 euros</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-tira-la-casa-por-la-ventana-y-agota-su-fiambrera-de-disney-para-la-vuelta-al-cole-tiene-tres-compartimentos-botella-de-acero-y-cuesta-menos-de-6-euros.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-tira-la-casa-por-la-ventana-y-agota-su-fiambrera-de-disney-para-la-vuelta-al-cole-tiene-tres-compartimentos-botella-de-acero-y-cuesta-menos-de-6-euros.html</guid>
-    </item>
-  </channel>
-</rss>
+name: Actualizar RSS de Vozpópuli Economía
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # GitHub lo inicia cada hora.
+    # Después comprobamos el horario real de España.
+    - cron: "5 * * * 1-6"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-rss-vozpopuli-economia
+  cancel-in-progress: false
+
+jobs:
+  comprobar-horario:
+    runs-on: ubuntu-latest
+
+    outputs:
+      ejecutar: ${{ steps.horario.outputs.ejecutar }}
+
+    steps:
+      - name: Comprobar horario de España
+        id: horario
+        shell: bash
+        run: |
+          HORA=$(TZ=Europe/Madrid date +%H)
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "ejecutar=true" >> "$GITHUB_OUTPUT"
+          elif [ "$HORA" -ge 7 ] && [ "$HORA" -le 22 ]; then
+            echo "ejecutar=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ejecutar=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  actualizar:
+    needs: comprobar-horario
+    if: needs.comprobar-horario.outputs.ejecutar == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: python -m pip install -r requirements.txt
+
+      - name: Crear RSS
+        run: python rss_vozpopuli.py
+
+      - name: Guardar RSS actualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vozpopuli-economia.xml
+          git diff --cached --quiet || git commit -m "Actualizar RSS de Vozpópuli"
+          git push
