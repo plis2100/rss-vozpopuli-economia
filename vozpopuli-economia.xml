@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:36:59 +0000</lastBuildDate>
     <item>
       <title>El Barça admite que sus deudas y el nuevo estadio generan “dudas significativas” sobre el futuro del club</title>
       <link>https://www.vozpopuli.com/economia/empresas/el-barca-admite-que-sus-deudas-y-el-nuevo-estadio-generan-dudas-significativas-sobre-el-futuro-del-club.html</link>
@@ -235,6 +235,11 @@
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/espana-ya-es-el-tercer-pais-de-la-ocde-que-mas-exprime-los-ingresos-por-irpf-y-cotizaciones.html</guid>
     </item>
     <item>
+      <title>Colas en Lidl por la almohadilla eléctrica con seis niveles de temperatura por 20,99 euros que aliviará los dolores de cuello</title>
+      <link>https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-la-almohadilla-electrica-con-seis-niveles-de-temperatura-por-2099-euros-que-aliviara-los-dolores-de-cuello.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-la-almohadilla-electrica-con-seis-niveles-de-temperatura-por-2099-euros-que-aliviara-los-dolores-de-cuello.html</guid>
+    </item>
+    <item>
       <title>homming afronta el final de 2026 acercándose a las 100.000 unidades gestionadas y consolida su crecimiento en la gestión profesional del alquiler</title>
       <link>https://www.vozpopuli.com/economia/empresas/homming-afronta-el-final-de-2026-acercandose-a-las-100000-unidades-gestionadas-y-consolida-su-crecimiento-en-la-gestion-profesional-del-alquiler.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/homming-afronta-el-final-de-2026-acercandose-a-las-100000-unidades-gestionadas-y-consolida-su-crecimiento-en-la-gestion-profesional-del-alquiler.html</guid>
@@ -253,11 +258,6 @@
       <title>Intrigas en la nueva CNMC: dos bandos enfrentados y una ‘tregua’ auspiciada por Cuerpo</title>
       <link>https://www.vozpopuli.com/economia/empresas/intrigas-en-la-nueva-cnmc-dos-bandos-enfrentados-y-una-tregua-auspiciada-por-cuerpo.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/intrigas-en-la-nueva-cnmc-dos-bandos-enfrentados-y-una-tregua-auspiciada-por-cuerpo.html</guid>
-    </item>
-    <item>
-      <title>Almohadilla eléctrica</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-la-almohadilla-electrica-con-seis-niveles-de-temperatura-por-2099-euros-que-aliviara-los-dolores-de-cuello.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-la-almohadilla-electrica-con-seis-niveles-de-temperatura-por-2099-euros-que-aliviara-los-dolores-de-cuello.html</guid>
     </item>
   </channel>
 </rss>
