@@ -8,47 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 15 Sep 2026 02:39:29 +0000</lastBuildDate>
-    <item>
-      <title>El BCE avisa del riesgo sobre la vivienda en España: los precios están sobrevalorados un 85% más que Europa</title>
-      <link>https://www.vozpopuli.com/economia/banca/el-bce-avisa-del-riesgo-sobre-la-vivienda-en-espana-los-precios-estan-sobrevalorados-un-85-mas-que-europa.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/banca/el-bce-avisa-del-riesgo-sobre-la-vivienda-en-espana-los-precios-estan-sobrevalorados-un-85-mas-que-europa.html</guid>
-    </item>
-    <item>
-      <title>La subida de tipos engordará la factura de la deuda en 3.600 millones hasta 2030</title>
-      <link>https://www.vozpopuli.com/economia/macroeconomia/la-subida-de-tipos-engordara-la-factura-de-la-deuda-en-3600-millones-hasta-2030.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/macroeconomia/la-subida-de-tipos-engordara-la-factura-de-la-deuda-en-3600-millones-hasta-2030.html</guid>
-    </item>
-    <item>
-      <title>La crisis renovable en España salpica a grandes fondos extranjeros por el deterioro de sus parques</title>
-      <link>https://www.vozpopuli.com/economia/energia/la-crisis-renovable-en-espana-salpica-a-grandes-fondos-extranjeros-por-el-deterioro-de-sus-parques.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/la-crisis-renovable-en-espana-salpica-a-grandes-fondos-extranjeros-por-el-deterioro-de-sus-parques.html</guid>
-    </item>
-    <item>
-      <title>Red Eléctrica prohíbe a autoconsumidores verter energía al sistema para evitar apagones</title>
-      <link>https://www.vozpopuli.com/economia/empresas/red-electrica-prohibe-a-autoconsumidores-verter-energia-al-sistema-para-evitar-apagones.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/red-electrica-prohibe-a-autoconsumidores-verter-energia-al-sistema-para-evitar-apagones.html</guid>
-    </item>
-    <item>
-      <title>Control de Rufián, cameo de Urtasun y dardo a Teresa Ribera en el 'estreno' de la CNMC</title>
-      <link>https://www.vozpopuli.com/economia/control-de-rufian-cameo-de-urtasun-y-dardo-a-teresa-ribera-en-el-estreno-de-la-cnmc.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/control-de-rufian-cameo-de-urtasun-y-dardo-a-teresa-ribera-en-el-estreno-de-la-cnmc.html</guid>
-    </item>
-    <item>
-      <title>Lidl arrasa con la batidora 2 en 1 de 600 W de potencia por menos de 20 euros que te hará la vida más fácil para batir y picar alimentos</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/lidl-arrasa-con-la-batidora-2-en-1-de-600-w-de-potencia-por-menos-de-20-euros-que-te-hara-la-vida-mas-facil-para-batir-y-picar-alimentos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/lidl-arrasa-con-la-batidora-2-en-1-de-600-w-de-potencia-por-menos-de-20-euros-que-te-hara-la-vida-mas-facil-para-batir-y-picar-alimentos.html</guid>
-    </item>
-    <item>
-      <title>Curro Cordero, jubilado con 43 años cotizados: "Tengo más pensión que el sueldo de mis hijas y ellas pagan una hipoteca"</title>
-      <link>https://www.vozpopuli.com/economia/curro-cordero-jubilado-con-43-anos-cotizados-tengo-mas-pension-que-el-sueldo-de-mis-hijas-y-ellas-pagan-una-hipoteca.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/curro-cordero-jubilado-con-43-anos-cotizados-tengo-mas-pension-que-el-sueldo-de-mis-hijas-y-ellas-pagan-una-hipoteca.html</guid>
-    </item>
-    <item>
-      <title>Mercadona lo vuelve a hacer y lanza la barrita de chocolate parecida al Kinder Bueno de menos de dos euros ideal para los niños que vuelven al cole</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/mercadona-lo-vuelve-a-hacer-y-lanza-la-barrita-de-chocolate-parecida-al-kinder-bueno-de-menos-de-dos-euros-ideal-para-los-ninos-que-vuelven-al-cole.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/mercadona-lo-vuelve-a-hacer-y-lanza-la-barrita-de-chocolate-parecida-al-kinder-bueno-de-menos-de-dos-euros-ideal-para-los-ninos-que-vuelven-al-cole.html</guid>
-    </item>
+    <lastBuildDate>Tue, 15 Sep 2026 03:06:57 +0000</lastBuildDate>
     <item>
       <title>El portal de alquiler asequible del Gobierno se estrena con precios por encima del mercado</title>
       <link>https://www.vozpopuli.com/economia/inmobiliario/el-portal-de-alquiler-asequible-del-gobierno-se-estrena-con-precios-por-encima-del-mercado.html</link>
@@ -258,6 +218,46 @@
       <title>Puig compra el 50% de Isdin a Esteve por 1.200 millones y asume su control total</title>
       <link>https://www.vozpopuli.com/economia/empresas/puig-compra-el-50-de-isdin-a-esteve-por-1200-millones-y-asume-su-control-total.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/puig-compra-el-50-de-isdin-a-esteve-por-1200-millones-y-asume-su-control-total.html</guid>
+    </item>
+    <item>
+      <title>El petróleo supera los 100 dólares: qué activos pueden proteger mejor la cartera</title>
+      <link>https://www.vozpopuli.com/economia/mercados/el-petroleo-supera-los-100-dolares-que-activos-pueden-proteger-mejor-la-cartera.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/mercados/el-petroleo-supera-los-100-dolares-que-activos-pueden-proteger-mejor-la-cartera.html</guid>
+    </item>
+    <item>
+      <title>¿Puede Repsol volver al punto de partida? Recompras y dividendos sostienen la cotización</title>
+      <link>https://www.vozpopuli.com/economia/empresas/puede-repsol-volver-al-punto-de-partida-recompras-y-dividendos-sostienen-la-cotizacion.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/puede-repsol-volver-al-punto-de-partida-recompras-y-dividendos-sostienen-la-cotizacion.html</guid>
+    </item>
+    <item>
+      <title>2025, el año en que más viviendas se compraron en España en la última década</title>
+      <link>https://www.vozpopuli.com/economia/2025-el-ano-en-que-mas-viviendas-se-compraron-en-espana-en-la-ultima-decada.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/2025-el-ano-en-que-mas-viviendas-se-compraron-en-espana-en-la-ultima-decada.html</guid>
+    </item>
+    <item>
+      <title>Yanbu, la Tarragona saudí que amenaza con disparar el precio del diésel y la gasolina a 2,5 euros</title>
+      <link>https://www.vozpopuli.com/economia/energia/yanbu-la-tarragona-saudi-que-amenaza-con-disparar-el-precio-del-diesel-y-la-gasolina-a-25-euros.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/yanbu-la-tarragona-saudi-que-amenaza-con-disparar-el-precio-del-diesel-y-la-gasolina-a-25-euros.html</guid>
+    </item>
+    <item>
+      <title>La crisis del petróleo desbarata los planes de Moncloa en el último tramo de la legislatura</title>
+      <link>https://www.vozpopuli.com/economia/la-crisis-del-petroleo-desbarata-los-planes-de-moncloa-en-el-ultimo-tramo-de-la-legislatura.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/la-crisis-del-petroleo-desbarata-los-planes-de-moncloa-en-el-ultimo-tramo-de-la-legislatura.html</guid>
+    </item>
+    <item>
+      <title>Las turbulencias en los bonos meten presión a España para hacer ajustes milmillonarios</title>
+      <link>https://www.vozpopuli.com/economia/banca/las-turbulencias-en-los-bonos-meten-presion-a-espana-para-hacer-ajustes-milmillonarios.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/banca/las-turbulencias-en-los-bonos-meten-presion-a-espana-para-hacer-ajustes-milmillonarios.html</guid>
+    </item>
+    <item>
+      <title>Oscar López apela al diálogo con los centros de datos mientras lleva tres semanas sin recibir a las empresas</title>
+      <link>https://www.vozpopuli.com/economia/energia/oscar-lopez-apela-al-dialogo-con-los-centros-de-datos-mientras-lleva-tres-semanas-sin-recibir-a-las-empresas.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/oscar-lopez-apela-al-dialogo-con-los-centros-de-datos-mientras-lleva-tres-semanas-sin-recibir-a-las-empresas.html</guid>
+    </item>
+    <item>
+      <title>La destrucción de empleo extranjero se multiplica por cuatro al cierre de agosto</title>
+      <link>https://www.vozpopuli.com/economia/empleo/la-destruccion-de-empleo-extranjero-se-multiplica-por-cuatro-al-cierre-de-agosto.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/la-destruccion-de-empleo-extranjero-se-multiplica-por-cuatro-al-cierre-de-agosto.html</guid>
     </item>
   </channel>
 </rss>
