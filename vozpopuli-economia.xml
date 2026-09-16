@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:38:56 +0000</lastBuildDate>
     <item>
       <title>Cox cierra con éxito una emisión de 800 millones de dólares de capital híbrido en EEUU</title>
       <link>https://www.vozpopuli.com/economia/empresas/cox-cierra-con-exito-una-emision-de-800-millones-de-dolares-de-capital-hibrido-en-eeuu.html</link>
@@ -190,6 +190,11 @@
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/la-destruccion-de-empleo-extranjero-se-multiplica-por-cuatro-al-cierre-de-agosto.html</guid>
     </item>
     <item>
+      <title>El Gobierno lo confirma, desde hoy, 15 de septiembre: la ayuda de hasta 450 euros para cambiar la lavadora, el lavavajillas y tu vieja nevera</title>
+      <link>https://www.vozpopuli.com/economia/el-gobierno-lo-confirma-desde-hoy-15-de-septiembre-la-ayuda-de-hasta-450-euros-para-cambiar-la-lavadora-el-lavavajillas-y-tu-vieja-nevera.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-gobierno-lo-confirma-desde-hoy-15-de-septiembre-la-ayuda-de-hasta-450-euros-para-cambiar-la-lavadora-el-lavavajillas-y-tu-vieja-nevera.html</guid>
+    </item>
+    <item>
       <title>Telefónica se asegura toda LaLiga hasta 2032 tras recomprar los derechos por 1.650 millones</title>
       <link>https://www.vozpopuli.com/economia/empresas/telefonica-se-asegura-toda-laliga-hasta-2032-tras-recomprar-los-derechos-por-1650-millones.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/telefonica-se-asegura-toda-laliga-hasta-2032-tras-recomprar-los-derechos-por-1650-millones.html</guid>
@@ -253,11 +258,6 @@
       <title>Lluvia de millones para las joyas turísticas: Barajas, El Prat y Málaga acaparan uno de cada dos euros de Aena</title>
       <link>https://www.vozpopuli.com/economia/transporte/lluvia-de-millones-para-las-joyas-turisticas-barajas-el-prat-y-malaga-acaparan-uno-de-cada-dos-euros-de-aena.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/transporte/lluvia-de-millones-para-las-joyas-turisticas-barajas-el-prat-y-malaga-acaparan-uno-de-cada-dos-euros-de-aena.html</guid>
-    </item>
-    <item>
-      <title>Ayuda cambio lavadora</title>
-      <link>https://www.vozpopuli.com/economia/el-gobierno-lo-confirma-desde-hoy-15-de-septiembre-la-ayuda-de-hasta-450-euros-para-cambiar-la-lavadora-el-lavavajillas-y-tu-vieja-nevera.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-gobierno-lo-confirma-desde-hoy-15-de-septiembre-la-ayuda-de-hasta-450-euros-para-cambiar-la-lavadora-el-lavavajillas-y-tu-vieja-nevera.html</guid>
     </item>
   </channel>
 </rss>
