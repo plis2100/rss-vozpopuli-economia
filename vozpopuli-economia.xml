@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:43:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:13:37 +0000</lastBuildDate>
     <item>
       <title>Ni Nvidia ni las grandes tecnológicas: las próximas ganadoras de la inteligencia artificial</title>
       <link>https://www.vozpopuli.com/economia/mercados/ni-nvidia-ni-las-grandes-tecnologicas-las-proximas-ganadoras-de-la-inteligencia-artificial.html</link>
@@ -200,11 +200,6 @@
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/temor-empresarial-a-los-errores-no-forzados-del-pp-tras-el-tropiezo-de-las-pensiones.html</guid>
     </item>
     <item>
-      <title>Las grandes energéticas temen que Sánchez improvise un nuevo hachazo fiscal en vísperas electorales</title>
-      <link>https://www.vozpopuli.com/economia/empresas/las-grandes-energeticas-temen-que-sanchez-improvise-un-nuevo-hachazo-fiscal-en-visperas-electorales.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/las-grandes-energeticas-temen-que-sanchez-improvise-un-nuevo-hachazo-fiscal-en-visperas-electorales.html</guid>
-    </item>
-    <item>
       <title>El guardián del petróleo de España busca 100 piscinas olímpicas de gasolina para evitar una crisis de suministro</title>
       <link>https://www.vozpopuli.com/economia/energia/el-guardian-del-petroleo-de-espana-busca-100-piscinas-olimpicas-de-gasolina-para-evitar-una-crisis-de-suministro.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/el-guardian-del-petroleo-de-espana-busca-100-piscinas-olimpicas-de-gasolina-para-evitar-una-crisis-de-suministro.html</guid>
@@ -258,6 +253,11 @@
       <title>Julio Gómez: "Con presencia, compasión y espiritualidad, las personas mueren mejor"</title>
       <link>https://www.vozpopuli.com/economia/empresas/julio-gomez-con-presencia-compasion-y-espiritualidad-las-personas-mueren-mejor.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/julio-gomez-con-presencia-compasion-y-espiritualidad-las-personas-mueren-mejor.html</guid>
+    </item>
+    <item>
+      <title>Mercadona destaca entre las empresas de distribución por su reputación ante la inteligencia artificial, según RepIndex.AI</title>
+      <link>https://www.vozpopuli.com/economia/empresas/mercadona-destaca-entre-las-empresas-de-distribucion-por-su-reputacion-ante-la-inteligencia-artificial-segun-repindexai.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/mercadona-destaca-entre-las-empresas-de-distribucion-por-su-reputacion-ante-la-inteligencia-artificial-segun-repindexai.html</guid>
     </item>
   </channel>
 </rss>
