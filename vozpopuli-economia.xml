@@ -8,52 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 27 Oct 2026 07:09:13 +0000</lastBuildDate>
-    <item>
-      <title>El barril de petróleo marca 112 dólares y golpea a las bolsas de todo el mundo</title>
-      <link>https://www.vozpopuli.com/economia/el-barril-de-petroleo-marca-112-dolares-y-golpea-a-las-bolsas-de-todo-el-mundo.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/el-barril-de-petroleo-marca-112-dolares-y-golpea-a-las-bolsas-de-todo-el-mundo.html</guid>
-    </item>
-    <item>
-      <title>El ‘hombre fuerte’ de Florentino Pérez en el Gobierno maniobra para inhabilitar a Tebas antes de las elecciones</title>
-      <link>https://www.vozpopuli.com/economia/empresas/el-hombre-fuerte-de-florentino-perez-en-el-gobierno-maniobra-para-inhabilitar-a-tebas-antes-de-las-elecciones.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/el-hombre-fuerte-de-florentino-perez-en-el-gobierno-maniobra-para-inhabilitar-a-tebas-antes-de-las-elecciones.html</guid>
-    </item>
-    <item>
-      <title>Cox se incorpora a CEOE y refuerza su compromiso con el tejido empresarial español</title>
-      <link>https://www.vozpopuli.com/economia/empresas/cox-se-incorpora-a-ceoe-y-refuerza-su-compromiso-con-el-tejido-empresarial-espanol.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/cox-se-incorpora-a-ceoe-y-refuerza-su-compromiso-con-el-tejido-empresarial-espanol.html</guid>
-    </item>
-    <item>
-      <title>Iberdrola celebra la primera edición de su Legal Forum con figuras del mundo jurídico y empresarial</title>
-      <link>https://www.vozpopuli.com/economia/energia/iberdrola-celebra-la-primera-edicion-de-su-legal-forum-con-figuras-del-mundo-juridico-y-empresarial.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/iberdrola-celebra-la-primera-edicion-de-su-legal-forum-con-figuras-del-mundo-juridico-y-empresarial.html</guid>
-    </item>
-    <item>
-      <title>Stephen Yiu (Blue Whale Growth Fund): alta convicción, IA y la verdad sobre el riesgo en renta variable</title>
-      <link>https://www.vozpopuli.com/economia/stephen-yiu-blue-whale-growth-fund-alta-conviccion-ia-y-la-verdad-sobre-el-riesgo-en-renta-variable.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/stephen-yiu-blue-whale-growth-fund-alta-conviccion-ia-y-la-verdad-sobre-el-riesgo-en-renta-variable.html</guid>
-    </item>
-    <item>
-      <title>El S&amp;P 500 cae cada año: por qué seguir comprando puede hacerte rico</title>
-      <link>https://www.vozpopuli.com/economia/mercados/el-sp-500-cae-cada-ano-por-que-seguir-comprando-puede-hacerte-rico.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/mercados/el-sp-500-cae-cada-ano-por-que-seguir-comprando-puede-hacerte-rico.html</guid>
-    </item>
-    <item>
-      <title>1.400 euros para el móvil de cada diputado: el Congreso licita el cambio de dispositivos con las Cortes disueltas</title>
-      <link>https://www.vozpopuli.com/economia/empresas/1400-euros-para-el-movil-de-cada-diputado-el-congreso-licita-el-cambio-de-dispositivos-con-las-cortes-disueltas.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/1400-euros-para-el-movil-de-cada-diputado-el-congreso-licita-el-cambio-de-dispositivos-con-las-cortes-disueltas.html</guid>
-    </item>
-    <item>
-      <title>BBVA pactó con Moncloa una salida ‘sin ruido’ de Telefónica para reconducir relaciones tras la opa</title>
-      <link>https://www.vozpopuli.com/economia/banca/bbva-pacto-con-moncloa-una-salida-sin-ruido-de-telefonica-para-reconducir-relaciones-tras-la-opa.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/banca/bbva-pacto-con-moncloa-una-salida-sin-ruido-de-telefonica-para-reconducir-relaciones-tras-la-opa.html</guid>
-    </item>
-    <item>
-      <title>Una guerra interna sacude los planes de Secuoya, la productora de la serie de Pedro Sánchez</title>
-      <link>https://www.vozpopuli.com/economia/empresas/una-guerra-interna-sacude-los-planes-de-secuoya-la-productora-de-la-serie-de-pedro-sanchez.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/una-guerra-interna-sacude-los-planes-de-secuoya-la-productora-de-la-serie-de-pedro-sanchez.html</guid>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 13:27:01 +0000</lastBuildDate>
     <item>
       <title>Trump lleva a los tribunales otro proyecto marino de Iberdrola en plena crisis diplomática con España</title>
       <link>https://www.vozpopuli.com/economia/energia/trump-lleva-a-los-tribunales-otro-proyecto-marino-de-iberdrola-en-plena-crisis-diplomatica-con-espana.html</link>
@@ -258,6 +213,51 @@
       <title>La Seguridad Social confirma la edad de jubilación a partir de 2027: cuántos años tienes que tener cotizados</title>
       <link>https://www.vozpopuli.com/economia/la-seguridad-social-confirma-la-edad-de-jubilacion-a-partir-de-2027-cuantos-anos-tienes-que-tener-cotizados.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/la-seguridad-social-confirma-la-edad-de-jubilacion-a-partir-de-2027-cuantos-anos-tienes-que-tener-cotizados.html</guid>
+    </item>
+    <item>
+      <title>Adiós a la humedad y al moho: Lidl vende el deshumidificador Tronic que extrae 10 litros al día y tiene modo secado de ropa por menos de 95 euros</title>
+      <link>https://www.vozpopuli.com/economia/distribucion/adios-a-la-humedad-y-al-moho-lidl-vende-el-deshumidificador-tronic-que-extrae-10-litros-al-dia-y-tiene-modo-secado-de-ropa-por-menos-de-95-euros.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/adios-a-la-humedad-y-al-moho-lidl-vende-el-deshumidificador-tronic-que-extrae-10-litros-al-dia-y-tiene-modo-secado-de-ropa-por-menos-de-95-euros.html</guid>
+    </item>
+    <item>
+      <title>Colas en Lidl por el tendedero de alas XL de 20 metros que todo piso sin terraza necesita: aguanta 15 kilos, cuesta 19,99 euros y es clave para los días con poco sol</title>
+      <link>https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-el-tendedero-de-alas-xl-de-20-metros-que-todo-piso-sin-terraza-necesita-aguanta-15-kilos-cuesta-1999-euros-y-es-clave-para-los-dias-con-poco-sol.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-el-tendedero-de-alas-xl-de-20-metros-que-todo-piso-sin-terraza-necesita-aguanta-15-kilos-cuesta-1999-euros-y-es-clave-para-los-dias-con-poco-sol.html</guid>
+    </item>
+    <item>
+      <title>El empleo pierde fuelle en plena temporada veraniega y el paro repunta al 10,18%</title>
+      <link>https://www.vozpopuli.com/economia/empleo/el-empleo-pierde-fuelle-en-plena-temporada-veraniega-y-el-paro-repunta-al-1018.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/el-empleo-pierde-fuelle-en-plena-temporada-veraniega-y-el-paro-repunta-al-1018.html</guid>
+    </item>
+    <item>
+      <title>Orange eleva sus ingresos un 2,8% hasta septiembre y supera los 18,6 millones de clientes móviles</title>
+      <link>https://www.vozpopuli.com/economia/empresas/orange-eleva-sus-ingresos-un-28-hasta-septiembre-y-supera-los-186-millones-de-clientes-moviles.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/orange-eleva-sus-ingresos-un-28-hasta-septiembre-y-supera-los-186-millones-de-clientes-moviles.html</guid>
+    </item>
+    <item>
+      <title>Bankinter sufre problemas técnicos y deja a sus clientes sin acceso a su web y app</title>
+      <link>https://www.vozpopuli.com/economia/banca/bankinter-sufre-problemas-tecnicos-y-deja-a-sus-clientes-sin-acceso-a-su-web-y-app.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/banca/bankinter-sufre-problemas-tecnicos-y-deja-a-sus-clientes-sin-acceso-a-su-web-y-app.html</guid>
+    </item>
+    <item>
+      <title>¿Tienes más de un año de antigüedad en la empresa y quieres estudiar?: el artículo 23 del Estatuto contempla un permiso retribuido de 20 horas</title>
+      <link>https://www.vozpopuli.com/economia/empleo/tienes-mas-de-un-ano-de-antiguedad-en-la-empresa-y-quieres-estudiar-el-articulo-23-del-estatuto-contempla-un-permiso-retribuido-de-20-horas.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/tienes-mas-de-un-ano-de-antiguedad-en-la-empresa-y-quieres-estudiar-el-articulo-23-del-estatuto-contempla-un-permiso-retribuido-de-20-horas.html</guid>
+    </item>
+    <item>
+      <title>LaLiga contacta con el Real Madrid para sofocar la crisis de Mbappé en China y proteger un negocio de hasta 400 millones</title>
+      <link>https://www.vozpopuli.com/economia/empresas/laliga-contacta-con-el-real-madrid-para-sofocar-la-crisis-de-mbappe-en-china-y-proteger-un-negocio-de-hasta-400-millones.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/laliga-contacta-con-el-real-madrid-para-sofocar-la-crisis-de-mbappe-en-china-y-proteger-un-negocio-de-hasta-400-millones.html</guid>
+    </item>
+    <item>
+      <title>La huelga indefinida del metal bloquea carreteras en Cartagena y acaba con cargas policiales</title>
+      <link>https://www.vozpopuli.com/economia/la-huelga-indefinida-del-metal-bloquea-carreteras-en-cartagena-y-acaba-con-cargas-policiales.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/la-huelga-indefinida-del-metal-bloquea-carreteras-en-cartagena-y-acaba-con-cargas-policiales.html</guid>
+    </item>
+    <item>
+      <title>Moncloa crea una excepción a medida para que su gigafactoría de IA en Tarragona escape al decreto de centros de datos</title>
+      <link>https://www.vozpopuli.com/economia/energia/moncloa-crea-una-excepcion-a-medida-para-que-su-gigafactoria-de-ia-en-tarragona-escape-al-decreto-de-centros-de-datos.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/moncloa-crea-una-excepcion-a-medida-para-que-su-gigafactoria-de-ia-en-tarragona-escape-al-decreto-de-centros-de-datos.html</guid>
     </item>
   </channel>
 </rss>
