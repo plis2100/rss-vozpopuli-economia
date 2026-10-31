@@ -8,32 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:21:32 +0000</lastBuildDate>
-    <item>
-      <title>Amazon y Microsoft llevan su guerra por los centros de datos con Moncloa a la CNMC, Bruselas y el Consejo de Estado</title>
-      <link>https://www.vozpopuli.com/economia/energia/amazon-y-microsoft-llevan-su-guerra-por-los-centros-de-datos-con-moncloa-a-la-cnmc-bruselas-y-el-consejo-de-estado.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/energia/amazon-y-microsoft-llevan-su-guerra-por-los-centros-de-datos-con-moncloa-a-la-cnmc-bruselas-y-el-consejo-de-estado.html</guid>
-    </item>
-    <item>
-      <title>El empleo privado cae en verano por primera vez desde la Gran Recesión</title>
-      <link>https://www.vozpopuli.com/economia/empleo/el-empleo-privado-cae-en-verano-por-primera-vez-desde-la-gran-recesion.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empleo/el-empleo-privado-cae-en-verano-por-primera-vez-desde-la-gran-recesion.html</guid>
-    </item>
-    <item>
-      <title>Caso Mbappé: Tebas baraja viajar a China ante la amenaza de un roto millonario para LaLiga</title>
-      <link>https://www.vozpopuli.com/economia/empresas/caso-mbappe-tebas-baraja-viajar-a-china-ante-la-amenaza-de-un-roto-millonario-para-laliga.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/caso-mbappe-tebas-baraja-viajar-a-china-ante-la-amenaza-de-un-roto-millonario-para-laliga.html</guid>
-    </item>
-    <item>
-      <title>Indra desnuda su base de accionistas y se presenta ante los inversores como el campeón nacional antes del 29-N</title>
-      <link>https://www.vozpopuli.com/economia/banca/indra-desnuda-su-base-de-accionistas-y-se-presenta-ante-los-inversores-como-el-campeon-nacional-antes-del-29-n.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/banca/indra-desnuda-su-base-de-accionistas-y-se-presenta-ante-los-inversores-como-el-campeon-nacional-antes-del-29-n.html</guid>
-    </item>
-    <item>
-      <title>El Santander gana un récord de 12.405 millones hasta septiembre, un 20% más, en plenas subidas de tipos</title>
-      <link>https://www.vozpopuli.com/economia/banca/el-santander-gana-un-record-de-11176-millones-hasta-septiembre-un-16-mas-en-plenas-subidas-de-tipos.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/banca/el-santander-gana-un-record-de-11176-millones-hasta-septiembre-un-16-mas-en-plenas-subidas-de-tipos.html</guid>
-    </item>
+    <lastBuildDate>Sat, 31 Oct 2026 06:03:18 +0000</lastBuildDate>
     <item>
       <title>Redeia eleva un 5,3% el beneficio y acelera el gasto en redes hasta superar los 1.100 millones</title>
       <link>https://www.vozpopuli.com/economia/empresas/redeia-eleva-un-53-el-beneficio-y-acelera-el-gasto-en-redes-hasta-superar-los-1100-millones.html</link>
@@ -258,6 +233,31 @@
       <title>Roban 6.300 millones de dólares en un hackeo a Binance con Corea del Norte como principal sospechoso</title>
       <link>https://www.vozpopuli.com/economia/roban-6300-millones-de-dolares-en-un-hackeo-a-binance-con-corea-del-norte-como-principal-sospechoso.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/roban-6300-millones-de-dolares-en-un-hackeo-a-binance-con-corea-del-norte-como-principal-sospechoso.html</guid>
+    </item>
+    <item>
+      <title>Elecciones de mitad de mandato en EEUU: ¿se dispara la Bolsa después? El estudio con más datos</title>
+      <link>https://www.vozpopuli.com/economia/elecciones-de-mitad-de-mandato-en-eeuu-se-dispara-la-bolsa-despues-el-estudio-con-mas-datos.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/elecciones-de-mitad-de-mandato-en-eeuu-se-dispara-la-bolsa-despues-el-estudio-con-mas-datos.html</guid>
+    </item>
+    <item>
+      <title>¿Invertir ahora o esperar algo más de tiempo? Desde Abanca explican qué hacer con tus ahorros</title>
+      <link>https://www.vozpopuli.com/economia/invertir-ahora-o-esperar-algo-mas-de-tiempo-desde-abanca-explican-que-hacer-con-tus-ahorros.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/invertir-ahora-o-esperar-algo-mas-de-tiempo-desde-abanca-explican-que-hacer-con-tus-ahorros.html</guid>
+    </item>
+    <item>
+      <title>La demanda de créditos al consumo se dispara pese a la escalada de la inflación</title>
+      <link>https://www.vozpopuli.com/economia/empresas/la-demanda-de-creditos-al-consumo-se-dispara-pese-a-la-escalada-de-la-inflacion.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/la-demanda-de-creditos-al-consumo-se-dispara-pese-a-la-escalada-de-la-inflacion.html</guid>
+    </item>
+    <item>
+      <title>El cierre de la línea Madrid-Barcelona obligaría a buscar alternativa a 29 millones de viajeros</title>
+      <link>https://www.vozpopuli.com/economia/transporte/el-cierre-de-la-linea-madrid-barcelona-obligaria-a-buscar-alternativa-a-29-millones-de-viajeros.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/transporte/el-cierre-de-la-linea-madrid-barcelona-obligaria-a-buscar-alternativa-a-29-millones-de-viajeros.html</guid>
+    </item>
+    <item>
+      <title>China vetará las retransmisiones del Real Madrid en Liga y Champions y levantará el veto al resto de clubes</title>
+      <link>https://www.vozpopuli.com/economia/empresas/china-vetara-las-retransmisiones-del-real-madrid-en-liga-y-champions-y-levantara-el-veto-al-resto-de-clubes.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/empresas/china-vetara-las-retransmisiones-del-real-madrid-en-liga-y-champions-y-levantara-el-veto-al-resto-de-clubes.html</guid>
     </item>
   </channel>
 </rss>
