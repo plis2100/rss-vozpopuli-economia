@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:17:16 +0000</lastBuildDate>
     <item>
       <title>El consumo de electricidad apunta a un pinchazo de la huelga general con una caída mínima del 5%</title>
       <link>https://www.vozpopuli.com/economia/energia/el-consumo-de-electricidad-apunta-a-un-pinchazo-de-la-huelga-general-con-una-caida-minima-del-755.html</link>
@@ -250,14 +250,14 @@
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/transporte/terremoto-en-la-aviacion-de-alquiler-seis-aerolineas-europeas-quiebran-por-la-crisis-del-combustible.html</guid>
     </item>
     <item>
-      <title>Colas en Lidl por el calientamanos recargable de 13,99 euros que también carga el móvil: hasta 47 grados y 8 horas de batería</title>
-      <link>https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-el-calientamanos-recargable-de-1399-euros-que-tambien-carga-el-movil-hasta-47-grados-y-8-horas-de-bateria.html</link>
-      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-el-calientamanos-recargable-de-1399-euros-que-tambien-carga-el-movil-hasta-47-grados-y-8-horas-de-bateria.html</guid>
-    </item>
-    <item>
-      <title>Llega a Lidl el calefactor de vidrio Tronic de 2.000 W con modo eco, termostato y protección antivuelco: ideal para un calor rápido y acogedor en tu hogar, que sirve como calefacción auxiliar</title>
+      <title>Calefactor de vidrio</title>
       <link>https://www.vozpopuli.com/economia/distribucion/llega-a-lidl-el-calefactor-de-vidrio-tronic-de-2000-w-con-modo-eco-termostato-y-proteccion-antivuelco-ideal-para-un-calor-rapido-y-acogedor-en-tu-hogar-que-sirve-como-calefaccion-auxiliar.html</link>
       <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/llega-a-lidl-el-calefactor-de-vidrio-tronic-de-2000-w-con-modo-eco-termostato-y-proteccion-antivuelco-ideal-para-un-calor-rapido-y-acogedor-en-tu-hogar-que-sirve-como-calefaccion-auxiliar.html</guid>
+    </item>
+    <item>
+      <title>Calientamanos recargable</title>
+      <link>https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-el-calientamanos-recargable-de-1399-euros-que-tambien-carga-el-movil-hasta-47-grados-y-8-horas-de-bateria.html</link>
+      <guid isPermaLink="false">https://www.vozpopuli.com/economia/distribucion/colas-en-lidl-por-el-calientamanos-recargable-de-1399-euros-que-tambien-carga-el-movil-hasta-47-grados-y-8-horas-de-bateria.html</guid>
     </item>
   </channel>
 </rss>
